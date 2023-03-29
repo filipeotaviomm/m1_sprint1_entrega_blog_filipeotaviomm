@@ -1,0 +1,37 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 70%;
+  margin: 0px auto 0px auto;
+  background-color: #d9e2eb;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  margin-left: 30px;
+  align-items: center;
+}
+
+.image {
+  width: 50px;
+  height: 50px;
+}
+
+.post {
+  margin-left: 30px;
+  margin-right: 20px;
+}
+
+.foot {
+  margin-left: 30px;
+}
+
+.button {
+  margin-bottom: 25px;
+}
